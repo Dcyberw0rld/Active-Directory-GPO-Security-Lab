@@ -313,19 +313,23 @@ The account lockout policy successfully triggered after repeated failed login at
 
 This control helps organizations identify suspicious authentication activity while reducing the likelihood of unauthorized account compromise through repeated login attempts.
 
-### Screenshot
+### Screenshots
 
-![Account Lockout Triggered](screenshots/gpo-account-lockout-triggered.png)
+![Administrative Account Recovery](screenshots/gpo-account-lockout-admin-recovery.png)
+
+*Reviewed administrative recovery procedures for locked domain accounts following account lockout enforcement.*
 
 ---
 
-![Administrative Account Recovery](screenshots/gpo-account-lockout-admin-recovery.png)
+![User Password Reset](screenshots/gpo-user-password-reset.png)
+
+*Performed administrative password reset procedures for a locked domain user account through Active Directory Users and Computers.*
 
 ---
 
 ![Account Recovery Success](screenshots/gpo-account-recovery-success.png)
 
----
+*Verified successful restoration of user account access after administrative remediation and password reset procedures.*
 
 # Troubleshooting & Challenges
 
