@@ -203,7 +203,7 @@ These controls help mitigate:
 * Weak password usage
 * Credential reuse risks
 
-### Screenshot
+### Screenshots
 
 ![Password Policy Before Configuration](screenshots/gpo-password-policy-before.png)
 
@@ -235,7 +235,7 @@ These controls help mitigate:
 
 Strict account lockout policies may introduce operational challenges if legitimate users become locked out or if administrative accounts are targeted.
 
-### Screenshot
+### Screenshots
 
 ![Account Lockout Policy Before Configuration](screenshots/gpo-account-lockout-policy-before.png)
 
@@ -263,7 +263,7 @@ Timely policy synchronization helps:
 * Reduce outdated configurations
 * Improve policy enforcement consistency
 
-### Screenshot
+### Screenshots
 
 ![Server gpupdate Success](screenshots/gpo-server-gpupdate-success.png)
 
