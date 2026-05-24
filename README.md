@@ -154,7 +154,7 @@ Centralized management helps:
 
 ### Screenshot
 
-`gpo-console-overview.png`
+![Group Policy Management Console](screenshots/gpo-console-overview.png)
 
 ---
 
@@ -179,7 +179,7 @@ Centralized policy enforcement helps reduce:
 
 ### Screenshot
 
-`gpo-policy-creation.png`
+![Default Domain Policy Edit](screenshots/gpo-default-domain-policy-edit.png)
 
 ---
 
@@ -205,7 +205,11 @@ These controls help mitigate:
 
 ### Screenshot
 
-`gpo-password-policy-settings.png`
+![Password Policy Before Configuration](screenshots/gpo-password-policy-before.png)
+
+---
+
+![Configured Password Policy Settings](screenshots/gpo-password-policy-settings.png)
 
 ---
 
@@ -233,7 +237,11 @@ Strict account lockout policies may introduce operational challenges if legitima
 
 ### Screenshot
 
-`gpo-account-lockout-settings.png`
+![Account Lockout Policy Before Configuration](screenshots/gpo-account-lockout-policy-before.png)
+
+---
+
+![Configured Account Lockout Policy Settings](screenshots/gpo-account-lockout-policy-settings.png)
 
 ---
 
@@ -257,7 +265,11 @@ Timely policy synchronization helps:
 
 ### Screenshot
 
-`gpo-gpupdate-success.png`
+![Server gpupdate Success](screenshots/gpo-server-gpupdate-success.png)
+
+---
+
+![Client gpupdate Success](screenshots/gpo-client-gpupdate-success.png)
 
 ---
 
@@ -281,7 +293,7 @@ When attempting to configure weak passwords for a domain user account, Windows r
 
 ### Screenshot
 
-`gpo-password-policy-test.png`
+![Password Complexity Failure](screenshots/gpo-password-complexity-failure.png)
 
 ---
 
@@ -303,7 +315,15 @@ This control helps organizations identify suspicious authentication activity whi
 
 ### Screenshot
 
-`gpo-account-lockout-test.png`
+![Account Lockout Triggered](screenshots/gpo-account-lockout-triggered.png)
+
+---
+
+![Administrative Account Recovery](screenshots/gpo-account-lockout-admin-recovery.png)
+
+---
+
+![Account Recovery Success](screenshots/gpo-account-recovery-success.png)
 
 ---
 
